@@ -1,6 +1,6 @@
 import random
 
-n = int(input('Введите кол-во камней: '))
+n = int(input('Введите количество камней: '))
 
 try:
     n = int(n)
